@@ -4,6 +4,8 @@ html {
 body {
   font-family: "Helvetica Neue", "Arial", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
   font-size: 1.6rem;
+  
+
 }
 
 img {
@@ -72,6 +74,7 @@ header {
   background-repeat: no-repeat;
   padding: 20px 40px;
   position: relative;
+  box-sizing: border-box;
 
   & nav ul {
     display: flex;
